@@ -1,0 +1,30 @@
+[21-Feb-2018 12:30:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rfmsoftn/public_html/sg/logic/thecon.php:4
+Stack trace:
+#0 /home/rfmsoftn/public_html/sg/login2.php(18): include()
+#1 {main}
+  thrown in /home/rfmsoftn/public_html/sg/logic/thecon.php on line 4
+[21-Feb-2018 12:30:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rfmsoftn/public_html/sg/logic/thecon.php:4
+Stack trace:
+#0 /home/rfmsoftn/public_html/sg/login2.php(18): include()
+#1 {main}
+  thrown in /home/rfmsoftn/public_html/sg/logic/thecon.php on line 4
+[21-Feb-2018 12:31:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rfmsoftn/public_html/sg/logic/thecon.php:4
+Stack trace:
+#0 /home/rfmsoftn/public_html/sg/login2.php(18): include()
+#1 {main}
+  thrown in /home/rfmsoftn/public_html/sg/logic/thecon.php on line 4
+[21-Feb-2018 12:31:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rfmsoftn/public_html/sg/logic/thecon.php:4
+Stack trace:
+#0 /home/rfmsoftn/public_html/sg/login2.php(18): include()
+#1 {main}
+  thrown in /home/rfmsoftn/public_html/sg/logic/thecon.php on line 4
+[12-Apr-2018 13:20:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rfmsoftn/public_html/sg/logic/thecon.php:4
+Stack trace:
+#0 /home/rfmsoftn/public_html/sg/login2.php(18): include()
+#1 {main}
+  thrown in /home/rfmsoftn/public_html/sg/logic/thecon.php on line 4
+[25-Apr-2018 13:51:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rfmsoftn/public_html/sg/logic/thecon.php:4
+Stack trace:
+#0 /home/rfmsoftn/public_html/sg/login2.php(18): include()
+#1 {main}
+  thrown in /home/rfmsoftn/public_html/sg/logic/thecon.php on line 4

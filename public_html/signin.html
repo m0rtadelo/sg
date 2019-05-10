@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Accés Sistemes Geogràfics</title>
+    <script type="text/javascript" src="js/md5.pack.js"></script> 
+<script type="text/javascript">
+function login(){
+	document.form1.style.display='none';
+	document.form1.pass.value = md5(document.form1.pass.value);
+	document.form1.pass2.value = document.form1.pass.value;
+//	document.form1.submit();
+}
+function resetUI(){
+	document.getElementById('errentitat').style.display = 'none'; 	
+	document.getElementById('errusuari').style.display = 'none';
+	document.getElementById('errpass').style.display = 'none';	
+	document.getElementById('errpass2').style.display = 'none';
+	document.getElementById('errnom').style.display = 'none';
+}
+function valida(){
+	// reset ui
+	resetUI();
+	
+	// setting vars
+	var entitat = document.form1.entitat.value;
+	var usuari = document.form1.usuari.value;
+	var pass = document.form1.pass.value;
+	var pass2 = document.form1.pass2.value;
+	var nom = document.form1.nom.value;
+	
+	// checking entitat
+	if(entitat.length<3){
+		document.getElementById('errentitat').style.display = 'block'; 
+		document.form1.entitat.focus();
+		return false;
+	}
+	
+	// checking nom
+	if(nom.length<3){
+		document.getElementById('errnom').style.display = 'block'; 
+		document.form1.nom.focus();
+		return false;
+	}
+
+	// checking usuari
+	if(usuari.length<3){
+		document.getElementById('errusuari').style.display = 'block'; 
+		document.form1.usuari.focus();
+		return false;
+	}
+
+	// checking password
+	if(pass.length<8){
+		document.getElementById('errpass').style.display = 'block'; 
+		document.form1.pass.focus();
+		return false;		
+	}
+	if(pass != pass2){
+		document.getElementById('errpass2').style.display = 'block'; 
+		document.form1.pass.focus();
+		return false;				
+	}
+	
+	login();
+	return true;
+}
+</script>
+<style type="text/css">
+<!--
+body{
+	font-family:Verdana, Geneva, sans-serif;
+	background-color:#BBBBBB;
+	background-image: url('/img/fons.png');
+}
+#lform {
+	width:300px;
+	background-color:#FFFFFF;
+	border: 10px solid #999999;
+}
+.err{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	color:#F00;
+	display:none;
+}
+-->
+</style>
+</head>
+
+<body onload="javascript:document.getElementById('entitat').focus();" bgcolor="#BBBBBB">
+<table width="100%" height="100%" border="0">
+  <tr height="33%">
+    <td height="33%">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td id="lform" align="center"><img src="img/logosg3.png" alt="Sistemes Geogràfics" width="224" height="264" style="align:center" />
+    <form id="form1" name="form1" method="post" action="signin2.php" onsubmit="return valida();">
+  <p align="right">
+    <label>Nom entitat:
+      <input type="text" name="entitat" id="entitat" />
+      <p id="errentitat" class="err">Cal indicar un nom d'entitat de com a mínim 3 caràcters</p>
+    </label>
+  </p>
+  <p align="right">
+    <label>Nom usuari:
+      <input type="text" name="nom" id="nom" />
+      <p id="errnom" class="err">Cal indicar un nom d'usuari de com a mínim 3 caràcters</p>
+    </label>
+  </p>
+  <p align="right">
+    <label>E-mail:
+      <input type="text" name="usuari" id="usuari" />
+      <p id="errusuari" class="err">Cal indicar un nom d'usuari de com a mínim 3 caràcters</p>      
+    </label>
+  </p>
+  <p align="right">
+    <label>Contrasenya:
+      <input type="password" name="pass" id="pass" />
+	<p id="errpass" class="err">Cal indicar una contrasenya de com a mínim 8 caràcters</p>      
+	<p id="errpass2" class="err">Les contrasenyes indicades no coincideixen, cal tornar a introduir-les.</p>          
+    </label>
+  </p>
+  <p align="right">
+    <label>Repetir cont.:
+      <input type="password" name="pass2" id="pass2" />
+    </label>
+  </p>
+  <p align="right">
+  <input type="submit" name="submit" id="submit" value="Alta" />
+  </p>
+</form></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td id="lform">Ja disposeu d'un usuari per accedir? Feu click en el següent enllaç: <a href="login.html">Autenticació</a></td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+
+</body>
+</html>

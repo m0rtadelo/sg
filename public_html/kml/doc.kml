@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <!-- Begin Style Definitions -->
+  <Folder>
+    <name>Point Features</name>
+    <description>Point Features</description>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 1<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0789037278,41.3661009139,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 2<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0708461297,41.3644665367,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 3<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0803630444,41.3640959034,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 4<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0711137392,41.3644679431,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 5<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0757065845,41.3645985955,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 6<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0723417895,41.3640687992,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 7<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0720121406,41.3608437817,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 8<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0832155685,41.3627536663,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 9<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0839750489,41.3631313746,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 10<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0796889446,41.3662151733,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 11<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0859210752,41.3639594130,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 12<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0842857712,41.3621143615,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 13<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0782793928,41.3609529246,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 14<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0622296531,41.3599132458,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 16<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0595898185,41.3589830736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 15<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0807509110,41.3591212065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 17<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0776872252,41.3587271784,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 18<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0815199309,41.3586182094,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 19<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0866584139,41.3587995424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 20<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0650466555,41.3579550270,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 21<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0710495048,41.3583513958,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 22<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0789309258,41.3579254159,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 23<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0679250831,41.3576162949,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 24<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0702362644,41.3574177423,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 25<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0705597376,41.3572964126,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 26<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0772340123,41.3570788871,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 27<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0793675808,41.3573028502,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 28<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0858334440,41.3575059503,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 29<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0783690331,41.3566461192,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 30<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0819094898,41.3568388263,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 31<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0770146140,41.3563201062,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 32<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0776512370,41.3561133121,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 33<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0642188265,41.3555445899,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 34<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0683624819,41.3558189347,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 36<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0735666474,41.3553330046,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 37<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0775221871,41.3556827889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 38<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0717250107,41.3552002505,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 39<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0796561869,41.3550834415,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 40<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0756916722,41.3543728316,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 41<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0748591962,41.3539441308,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 42<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0653565509,41.3532058257,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 44<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0662324269,41.3525608102,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 43<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0886838960,41.3539431343,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 45<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0861217053,41.3530926767,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 46<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0886594667,41.3526327734,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 47<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0709435724,41.3515692807,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 48<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0864247674,41.3512684056,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 49<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0735004416,41.3507398223,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 50<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0895534002,41.3512604017,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 51<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0685783486,41.3505278181,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 52<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0700110125,41.3502738457,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 53<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0815731647,41.3502103658,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 54<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0871837985,41.3504808002,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 55<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0869386934,41.3500378734,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 56<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0814839093,41.3493207290,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 57<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0674702425,41.3491083782,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 58<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0705070583,41.3486829005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 60<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0728064696,41.3489758135,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 65<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0700946479,41.3475961327,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 64<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0672563098,41.3482911872,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 63<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0843555356,41.3488005376,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 61<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0873578811,41.3500810096,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 66<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0780260660,41.3664859417,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 67<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0775303867,41.3666164741,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 69<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0740840584,41.3624161574,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 68<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0734227371,41.3622732070,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 74<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0700683238,41.3561010923,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 80<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0966612210,41.3531981065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 62<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0720936818,41.3490905239,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 79<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0741657148,41.3587954327,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 76<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0732190496,41.3640087899,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 99<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0813031892,41.3635291692,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 75<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0736559205,41.3639241563,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 77<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0739136807,41.3643133016,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 78<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0738626796,41.3646167939,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 59<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0720135122,41.3603174461,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 94<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0709122052,41.3581361261,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 98<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0723633718,41.3579999414,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 91<BR><BR><B>Comentari</B> = Antics 70 71 i 72]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0720532843,41.3563199736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 81<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0702430094,41.3551774414,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 83<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0706989835,41.3548152913,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 88<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0712085231,41.3531209257,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 89<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0724417977,41.3533747297,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 105<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0747351406,41.3514159490,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 82<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0663345572,41.3607638704,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 84<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0836636118,41.3495433369,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 93<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0857992188,41.3511516136,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 87<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0908328408,41.3542014887,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 86<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0916983032,41.3546795676,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 101<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0849205037,41.3604223348,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 102<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0825875400,41.3623867715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 100<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0827965396,41.3630071793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 97<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0822972479,41.3633312173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 35<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0816511934,41.3656439369,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 96<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0818143974,41.3664329463,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 103<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0744073449,41.3646636434,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 95<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0725819290,41.3600176796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 104<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0777046438,41.3535030214,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 92<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0699499547,41.3492111968,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 85<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0710213640,41.3490672969,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 90<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0697428110,41.3481993762,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>Id_CLL</B> = 73<BR><BR><B>Comentari</B> = ]]></description>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>2.0714816377,41.3562894921,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Upload Document</title>
+    <script type="text/javascript" src="js/jquery.js"></script> 
+    <script type="text/javascript" src="js/jmap.js"></script>     
+    <script type="text/javascript" src="js/util.js"></script> 
+    <style type="text/css">
+form {text-align: center;}
+        body {font-family: verdana; font-size: 9pt; margin: 0px;}
+        .title {
+            font-weight: bold; 
+            color: #FFFFFF; 
+            font-size: 12pt; 
+            text-align: center;
+            background-color: #BBBBBB;
+            margin: 0px;
+            padding: 10px;
+        }
+        input[type=text],select{
+            font-size: 9pt;
+            border: solid 1px #cccccc;
+            background-color: #eeeeee;
+            width: 45%;
+        }
+        input[type=button],input[type=submit]{
+            font-size: 9pt;
+            border: solid 1px #cccccc;
+            background-color: #eeeeee;
+            padding: 5px;
+            border-radius: 5px;
+        }
+        input[type=button]:hover,input[type=submit]:hover{
+            background-color: #cccccc;
+            border: solid 1px #aaaaaa;
+        }
+        .desc{
+            text-align: justify;
+            font-size: 8pt;
+            color: #777777;
+            padding-left: 10px;
+            padding-right: 10px;        
+        }
+        table {
+            width: 100%;
+        }
+        .close{
+            position: absolute;
+            right: 10px;
+            top: 10px;
+            border: 0px;            
+        }    </style>
+</head>
+<body>
+	<p class="title">Importar dades d'arxiu KML</p>
+    <a href="javascript:parent.document.getElementById('msg').style.display='none';">
+<img src="img/close.gif" id="close" name="close" class="close" alt="Tancar" title="Tancar">
+</a>
+	<p class="desc">Aquest formulari permet afegir les dades (punts geolocalitzats) d'un arxiu KML a un tècnic concret. Els punts existents en l'arxiu KML seran inserits al tècnic indicat amb els següents paràmetres: 
+	</p>
+<form name="uploadKML" id="uploadKML" method="post" action="logic/import.php" enctype="multipart/form-data">
+    <table border="0" width="100%">
+    <tr><td width="50%">
+    <label for="tecnicsUp">Tècnic: </label> <select name="tecnicsUps" id="tecnicsUps"></select>
+	</td><td width="50%">
+	<label for="objectesUps">Objecte: </label><select name="objectesUps" id="objectesUps" on></select>
+    </td></tr>
+	<tr><td width="50%">
+	<label for="estatsUps">Estat: </label><select name="estatsUps" id="estatsUps"></select>
+	</td><td width="50%">
+	<label for="actuacionsUps">Actuació: </label><select name="actuacionsUps" id="actuacionsUps"></select>
+    </td></tr>
+    <tr><td colspan="2">
+    <label for="file">Arxiu KML: </label><input type="file" id="file" name="file" />
+    </td></tr>
+    <tr><td colspan="2" align="right">
+    &nbsp; 
+    </td></tr>
+    <tr><td colspan="2" align="right">
+        <hr>
+    <input type="submit" value="Importar les dades de l'arxiu" style="margin-right:10px;">	
+    </td></tr>
+    </table>
+	</form> 
+</body>
+<script language="javascript">
+util.feedSelects();
+</script>
+</html>
