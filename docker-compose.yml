@@ -32,7 +32,7 @@ services:
     ports:
       - "3306:3306"
     volumes:
-            - data:/var/lib/mysql
+            - ./sg.sql:/docker-entrypoint-initdb.d/sg.sql
     networks:
       - backend
     environment:
