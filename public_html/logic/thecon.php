@@ -1,14 +1,41 @@
 <?php
+
+// Wrapper for deprecated mysql API
+function mysql_connect($host, $u, $p) {
+	$conn = mysqli_connect($host,$u,$p,"rfmsoftn_sg");
+	$conn->set_charset("utf8");
+	return $conn;
+}
+
+function mysql_query($q, $conn = null) {
+	if(!$conn)
+		$conn=mysql_connect("mysql","rfmsoftn_user","Primera.2");
+	return $conn->query($q);
+}
+
+function mysql_fetch_assoc($p) {
+	return mysqli_fetch_assoc($p);
+}
+
+function mysql_free_result($result)
+{
+	mysqli_free_result($result);
+	return true;
+}
+
+function mysql_close($c) {
+	return mysqli_close($c);
+}
 // Connecting database
 mb_internal_encoding( 'UTF-8' );
-$con = mysql_connect("localhost","rfmsoftn_user","Primera.2");
+$con = mysql_connect("mysql","rfmsoftn_user","Primera.2");
 if(!$con)
 	die("Unable to connect: ".mysql_error());
 
 // Setting output to UTF8
 mysql_query("SET NAMES 'utf8'", $con);
 // Setting database
-mysql_select_db("rfmsoftn_sg") or die("Unable to select database");
+// mysql_select_db("rfmsoftn_sg") or die("Unable to select database");
 
 
 /*
@@ -116,7 +143,7 @@ function reToken($id){
 	'<p>S\'ha rebut una petició per a re-generar la vostra contrasenya en el sistema SG.</p>' .
 	'<p>Si no voleu canviar la contrasenya ignoreu aquest correu.</p>' .
 	'<p>Per a re-generar la vostra contrasenya feu click en el següent enllaç:</p>' .
-	'<p><a href="http://sg.travisnet.es/reToken.php?t=' . $tkn .'">http://sg.travisnet.es/reToken.php?t=' . $tkn .'</a></p></body>';
+	'<p><a href="http://sg.rfmsoft.net/reToken.php?t=' . $tkn .'">http://sg.rfmsoft.net/reToken.php?t=' . $tkn .'</a></p></body>';
 	$cabeceras = 
 	'MIME-Version: 1.0' . "\r\n" .
 	'Content-type: text/html; charset=iso-8859-1' . "\r\n" .
