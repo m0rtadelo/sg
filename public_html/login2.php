@@ -4,16 +4,6 @@
 	RFM Software 2013 (rfmsoftware@gmail.com)
 */
 
-/*
-// parsing function
-function i_str($str, $len){
-	$chde = array('(','[','{','-','%','*','_',' ');// chars to remove from user & pass
-	$str = substr($str,0,$len);
-	$str = str_replace("'","\'",$str);
-	$str = str_replace($chde,'',$str);
-	return $str;
-}
-*/
 // connecting db
 include 'logic/thecon.php';
 
