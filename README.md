@@ -4,7 +4,7 @@ Archived PHP + Apache + MySql old SG web app.
 
 ## Execution
 ```
-/# docker-composer up
+/# docker-compose up
 ```
 ## Login
 Access to http://localhost as a/a
